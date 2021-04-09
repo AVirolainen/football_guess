@@ -66,7 +66,7 @@ if html.getcode() == 200:
 
     print(player_stat)
 
-    answer = input("\nYou wanna know answer? ")
+    answer = input("\nYou wanna answer? ")
     if answer == "+":
         print(random_player)
 
